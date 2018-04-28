@@ -1,0 +1,7 @@
+body {
+  text-align: center;
+}
+
+.on-sale > .thumbnail {
+  border-color: red;
+}
