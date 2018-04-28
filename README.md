@@ -8,3 +8,5 @@ Users will be able to:
   - Remove fish from their basket.
   
  But, here's the fun part 🎉🎉🎉: We will be using [jQuery](http://jquery.com/) to do all of the DOM interaction.
+
+![End Result](https://raw.githubusercontent.com/nss-evening-cohort-7/fish-store/master/Grab.png)
