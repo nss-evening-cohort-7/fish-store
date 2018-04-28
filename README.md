@@ -7,4 +7,4 @@ Users will be able to:
   - Add fish to their basket
   - Remove fish from their basket.
   
- But, here's the fun part 🎉🎉🎉: We will be using (jQuery)[http://jquery.com/] to do all of the DOM interaction.
+ But, here's the fun part 🎉🎉🎉: We will be using [jQuery](http://jquery.com/) to do all of the DOM interaction.
