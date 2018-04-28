@@ -1,0 +1,40 @@
+{
+  "fishes": [
+      {
+          "name": "Fish 1",
+          "basePrice": 19,
+          "imageSoure": "http://cdn.spectrumbrands.com/~/media/Pet/Tetra/Images/Learning%20Centers/Fish%20Learning%20Center/Gold_Dropsy.png",
+          "onSale": true
+      },
+      {
+          "name": "Fish 2",
+          "basePrice": 120,
+          "imageSoure": "http://cdn.spectrumbrands.com/~/media/Pet/Tetra/Images/Learning%20Centers/Fish%20Learning%20Center/Sword_Worms.png",
+          "onSale": false
+      },
+      {
+          "name": "Fish 3",
+          "basePrice": 140,
+          "imageSoure": "http://cdn.spectrumbrands.com/~/media/Pet/Tetra/Images/Learning%20Centers/Fish%20Learning%20Center/Molly_Fulkes.png",
+          "onSale": true
+      },
+      {
+          "name": "Fish 4",
+          "basePrice": 19,
+          "imageSoure": "http://www.lazoo.org/wp-new/wp-content/uploads/2014/09/fish.png",
+          "onSale": true
+      },
+      {
+          "name": "Fish 5",
+          "basePrice": 10,
+          "imageSoure": "http://songtrangseafoods.com/wp-content/uploads/2015/11/pangasius-fish.png",
+          "onSale": false
+      },
+      {
+          "name": "Fish 6",
+          "basePrice": 14,
+          "imageSoure": "http://www.tropicalfishsite.com/wp-content/uploads/2014/02/hemorrhagic-septicemia-300x300.png",
+          "onSale": true
+      }
+  ]
+}
