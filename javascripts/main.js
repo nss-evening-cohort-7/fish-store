@@ -1,1 +1,3 @@
-console.log('hello from Main');
+const bindEvents = require('./events');
+
+bindEvents();
