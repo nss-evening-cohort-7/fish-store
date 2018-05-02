@@ -30,7 +30,6 @@ const bindEvents = () => {
     // click(filterFish);
     changeButtonText();
     filterFish();
-    console.log('newjs');
   });
 };
 
