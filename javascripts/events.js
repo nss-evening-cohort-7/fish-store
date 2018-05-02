@@ -25,12 +25,11 @@ const moveToCart = (e) => {
 };
 
 const bindEvents = () => {
-  $('button.add').click(moveToCart);
+  $('button.add').on('click', moveToCart);
   $('#show-sale').click(() => {
     // click(filterFish);
     changeButtonText();
     filterFish();
-    console.log('newjs');
   });
 };
 

@@ -1,3 +1,4 @@
-const bindEvents = require('./events');
-bindEvents();
+const initializer = require('./data');
+
+initializer();
 console.log('newjs');
